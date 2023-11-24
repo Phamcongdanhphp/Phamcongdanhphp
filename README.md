@@ -2,7 +2,6 @@
 <h1align="center">Xin chào 👋, tôi là Phạm Công Danh</h1>
 <h3align="center">Một nhà phát triển frontend đam mê đến từ Việt Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <palign="left"> <img src="https://komarev.com/ghpvc/?username=phamcongdanhphp&label=Profile%20views&color=0e75b6&style=flat" alt="phamcongdanhphp" /> </p>
 
 <palign="left"> <a href=" https:src//twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" / ></a> </p>
